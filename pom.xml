@@ -8,5 +8,13 @@
     <artifactId>testmavenpackage</artifactId>
     <version>1.0-SNAPSHOT</version>
 
+    <dependencies>
+        <dependency>
+            <groupId>io.test</groupId>
+            <artifactId>testmavenbedepend</artifactId>
+            <version>1.0</version>
+        </dependency>
+    </dependencies>
+
 
 </project>
